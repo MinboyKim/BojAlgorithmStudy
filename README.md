@@ -1,3 +1,5 @@
 # BojAlgorithmStudy
 
-毎日 BOJ Challenge
+毎日 BOJ 챌린지
+
+벌금 10$
