@@ -2,4 +2,5 @@
 !*.*
 !*/
 .vscode/
-*.dSYM/.DS_Store
+*.dSYM
+*.DS_Store
