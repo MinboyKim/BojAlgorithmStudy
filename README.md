@@ -13,7 +13,7 @@
 6. PR을 보낸 후 code review를 진행합니다. PR 제목은 commit 명과 동일합니다.
 
 ---
-> ### 참여자 목록
-> * Minboy
-> * KaangManJoo
-
+### 참여자 목록
+* Minboy
+* KaangManJoo
+---
