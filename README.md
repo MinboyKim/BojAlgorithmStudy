@@ -12,7 +12,7 @@
 5. commit 후 push합니다. commit 명은 `[handle] [날짜] [문제번호] 제출` 로 합니다. 만약 푼 문제가 여러 문제일 경우 문제 번호를 콤마 (,) 로 구분합니다. ex)Minboykim 22/11/17 1259,1654 제출 
 6. PR을 보낸 후 code review를 진행합니다. PR 제목은 commit 명과 동일합니다.
 
-
+---
 > ### 참여자 목록
 > * Minboy
 > * KaangManJoo
