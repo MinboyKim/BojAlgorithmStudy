@@ -7,8 +7,8 @@
 # 1654번 - 랜선 자르기 SILVER II
 # https://www.acmicpc.net/problem/1654
 
-# 1259번 - 팰린드롬수
+# 1259번 - 팰린드롬수 BRONZE I
 # https://www.acmicpc.net/problem/1259
 
-# 2164번 - 카드2
+# 2164번 - 카드2 SILVER IV
 # https://www.acmicpc.net/problem/2164
