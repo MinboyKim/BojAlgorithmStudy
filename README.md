@@ -2,7 +2,7 @@
 
 건국대학교 컴퓨터공학과 알고리즘 스터디 💻
 
-毎日 BOJ 챌린지
+🌠 毎日 BOJ 챌린지
 
 ## 제출 방법
 1. repository를 fork한 뒤 clone합니다.
@@ -14,8 +14,8 @@
 
 ---
 ### 참여자 목록
-* Minboy
-* KaangManJoo
+* Minboy 🐧
+* KangManJoo 🐱
 ---
 
 ### Notion 📔
