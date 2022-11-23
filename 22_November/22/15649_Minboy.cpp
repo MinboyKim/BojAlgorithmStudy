@@ -1,12 +1,10 @@
-#include <algorithm>
 #include <iostream>
-#include <vector>
 
 using namespace std;
 
 int N, M;
-int arr[9];
-bool Visit[9];
+int arr[10];
+bool Visit[10];
 
 void dfs(int c) {
   if (c == M) {
