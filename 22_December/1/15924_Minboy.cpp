@@ -8,6 +8,8 @@ int dp[3030][3030] = {0};
 int n, m;
 
 int main() {
+  ios::sync_with_stdio(false);
+  cin.tie(NULL);
   cin >> n >> m;
   for (int i = 0; i < n; i++) cin >> Arr[i];
   dp[n - 1][m - 1] = 1;
