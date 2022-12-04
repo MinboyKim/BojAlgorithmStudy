@@ -16,7 +16,7 @@
 ### 참여자 목록
 * Minboy 🐧
 * KangManJoo 🐱
-* Kwan 🦷
+* Kwan 😊
 ---
 
 ### Notion 📔
