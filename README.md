@@ -38,6 +38,3 @@
 
 ### Notion 📔
 https://electric-period-6ff.notion.site/Baekjoon-Challenge-8c63f30e402e4e2f99060803568dfedc
-
-테스트
-https://electric-period-6ff.notion.site/Baekjoon-Challenge-8c63f30e402e4e2f99060803568dfedc
