@@ -3,8 +3,8 @@
 ## https://minboykim.github.io/
 
 # KangManjoo
-## 1001번 - Manjoo is stupid
-## https://kangmanjoo.github.io/
+## 17219번 - 비밀번호 찾기 SILVER IV
+## https://www.acmicpc.net/problem/17219
 
 # Kwan
 ## 1002번 - Kwan is 🦷
