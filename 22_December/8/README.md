@@ -7,5 +7,5 @@
 ## https://kangmanjoo.github.io/
 
 # Kwan
-## 1002번 - Kwan is 🦷
-## https://kwan.github.io/
+## 1107 - 리모컨 GOLD V
+## https://www.acmicpc.net/problem/1107
