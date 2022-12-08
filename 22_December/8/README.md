@@ -1,6 +1,6 @@
 # Minboy
-## 1000번 - Minboy is genius
-## https://minboykim.github.io/
+## 5766번 - 할아버지는 유명해!
+## https://www.acmicpc.net/problem/5766
 
 # KangManjoo
 ## 17219번 - 비밀번호 찾기 SILVER IV
