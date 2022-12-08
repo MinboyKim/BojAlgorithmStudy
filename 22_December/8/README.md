@@ -1,6 +1,6 @@
 # Minboy
-## 1000번 - Minboy is genius
-## https://minboykim.github.io/
+## 5766번 - 할아버지는 유명해!
+## https://www.acmicpc.net/problem/5766
 
 # KangManjoo
 ## 1001번 - Manjoo is stupid
