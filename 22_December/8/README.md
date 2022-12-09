@@ -1,5 +1,5 @@
 # Minboy
-## 5766번 - 할아버지는 유명해!
+## 5766번 - 할아버지는 유명해! SILVER IV
 ## https://www.acmicpc.net/problem/5766
 
 # KangManjoo
