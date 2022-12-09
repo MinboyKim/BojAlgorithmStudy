@@ -1,7 +1,7 @@
 # Minboy
-## 1620번 - 나는야 포켓몬 마스터 이다솜
+## 1620번 - 나는야 포켓몬 마스터 이다솜 SILVER IV
 ## https://www.acmicpc.net/problem/1620
-## 18870번 - 좌표 압축
+## 18870번 - 좌표 압축 SILVER II
 ## https://www.acmicpc.net/problem/18870
 
 # KangManjoo
