@@ -1,3 +1,6 @@
+# Minboy
+## [21314번 - 민겸 수 SILVER II](https://www.acmicpc.net/problem/21314)
+=======
 
 # KangManJoo
 ## [20006번 - 랭킹전 대기열 SILVER II](https://www.acmicpc.net/problem/20006)
