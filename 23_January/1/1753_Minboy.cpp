@@ -31,7 +31,7 @@ int main(void) {
     int cost = pq.top().first;
     int cur = pq.top().second;
     pq.pop();
-
+    if (cost > dist[cur]) continue;
     for (auto &i : Edges[cur]) {
       int tempV = i.first;
       int tempCost = i.second;
