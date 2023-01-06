@@ -27,7 +27,7 @@ void solve() {
   	to_node = pq.top();
 			pq.pop();
 		if (checked[to_node.second]) continue;
-  	else {
+  		else {
 				sum += to_node.first;
 				cur = to_node.second;
 				plag = 1;
