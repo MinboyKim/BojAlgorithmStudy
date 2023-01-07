@@ -2,3 +2,6 @@
 ## [2887번 - 행성 터널 PLATINUM V](https://www.acmicpc.net/problem/2887)
 ## [1764번 - 듣보잡 SILVER IV](https://www.acmicpc.net/problem/1764)
 ## [1697번 - 숨바꼭질 SILVER I](https://www.acmicpc.net/problem/1697)
+
+# KangManJoo
+## [1922번 - 네트워크 연결 GOLD IV](https://www.acmicpc.net/problem/1922)
