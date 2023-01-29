@@ -29,6 +29,7 @@ int main() {
 	 ios::sync_with_stdio(false);
 	 cin.tie(NULL);
 
+
 	 init();
 	 return 0;
 }
