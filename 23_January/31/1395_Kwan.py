@@ -10,7 +10,7 @@ def query(start,end,index,left,right):
     return query(start,mid,index*2,left,right) + query(mid+1,end,index*2+1,left,right)
 def lazy_update(start,end,index):
     if lazy[index]:
-        tree[index] = (end-start+1) - lazy[index]
+        tree[index] = (end-start+1) - tree[index]
         if start!=end:
             lazy[index*2] = not lazy[index*2]
             lazy[index*2 + 1] = not lazy[index*2+1]
@@ -31,11 +31,11 @@ def update(start,end,index,left,right):
     tree[index] = tree[index*2] + tree[index*2+1]
 
 n,m = map(int,input().split())
-tree = [0]*(4*(n))
-lazy = [0]*(4*n)
+tree = [0]*(4*(n+1))
+lazy = [0]*(4*(n+1))
 for _ in range(m):
     o,s,t = map(int,input().split())
     if o:
-        print(query(0,n-1,1,s-1,t-1))
+        print(query(1,n,1,s,t))
     else:
-        update(0,n-1,1,s-1,t-1)
+        update(1,n,1,s,t)
