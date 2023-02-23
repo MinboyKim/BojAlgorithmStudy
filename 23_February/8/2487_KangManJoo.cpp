@@ -31,7 +31,7 @@ int main(){
     cin>>n;
     for(int i=1; i<=n; i++){
         cin>>x;
-        arr[x]=i;     
+        arr[x]=i;   
     }
     for(int i=1; i<=n; i++){
         if(checked[i]!=1){
